@@ -1,0 +1,4 @@
+cx_Oracle
+pandas
+matplotlib
+streamlit
